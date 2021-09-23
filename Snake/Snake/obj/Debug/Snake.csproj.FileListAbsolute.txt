@@ -1,0 +1,19 @@
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Alex\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Alex\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Alex\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Alex\Desktop\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Alex\Desktop\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Alex\Desktop\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Alex\Desktop\Snake\Snake\obj\Debug\Snake.pdb
